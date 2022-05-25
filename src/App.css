@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+body {
+  font-family: 'Sen', sans-serif;
+  background-color: #36709c
+}
+
+hr {
+  color: #0000004f;
+  margin-top: 3px;
+  margin-bottom: 3px
+}
+
+.add td {
+  color: #c5c4c4;
+  text-transform: uppercase;
+  font-size: 12px
+}
+
+.content {
+  font-size: 14px
+}
+
+.header {
+  padding-left: 4rem;
+}
